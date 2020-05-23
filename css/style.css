@@ -1,0 +1,90 @@
+body {
+    margin: 0;
+    font-family: "Roboto" , sans-serif;
+    background: #f4eeff
+}
+
+.personalNav{
+  padding: 3% 10% 3% 5%;
+}
+
+
+
+.nav-link{
+  color: #a6b1e1;
+  font-size: 1.5rem;
+  padding: 15px
+}
+
+.nav-link:hover{
+  color: #424874
+
+}
+
+.navbar-toggler{
+  color: #424874;
+}
+
+.mainbody{
+  padding: 0 5% 0 5%;
+  color: #424874;
+  text-align: center;
+  line-height: 2
+}
+
+.mainDesc{
+  padding: 5% 5% 0 5%;
+  font-size:  1.5rem;
+  color: #a6b1e1;
+  line-height: 1.7
+
+}
+
+.skills{
+  padding: 5% 5% 5% 5%;
+  background: #ffffff;
+  margin-top: 10%;
+  text-align: center;
+  color: #424874;
+}
+
+.skills-icon{
+  color: #424874;
+}
+
+.skill-desc{
+  color: #a6b1e1;
+  padding-top: 20px;
+  line-height: 1.8
+}
+
+
+.contact{
+  padding: 5% 5% 5% 5%;
+}
+.mypic{
+  border-radius: 100%;
+}
+
+.myinfo{
+  margin-top: 10%;
+  color: #a6b1e1;
+  font-size: 2.4rem
+}
+
+.mynameFooter{
+  opacity: 0.4;
+}
+
+.social{
+  color: #424874;
+  display: inline;
+  padding-right: 10px
+}
+
+@media(max-width: 768px){
+  .img-fluid{
+    height: 5px;
+  }
+
+}
