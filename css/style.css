@@ -59,7 +59,7 @@ body {
 }
 
 
-.contact{
+.about{
   padding: 5% 5% 5% 5%;
 }
 .mypic{
@@ -82,9 +82,6 @@ body {
   padding-right: 10px
 }
 
-@media(max-width: 768px){
-  .img-fluid{
-    height: 5px;
-  }
-
+.mysocial{
+  color: #424874;
 }
