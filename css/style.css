@@ -79,9 +79,13 @@ body {
 .social{
   color: #424874;
   display: inline;
-  padding-right: 10px
 }
 
 .mysocial{
   color: #424874;
+  padding: 0
+}
+
+.mysocial:hover{
+    color: #424874
 }
