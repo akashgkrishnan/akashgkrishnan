@@ -1,46 +1,42 @@
 body {
-    margin: 0;
-    font-family: "Roboto" , sans-serif;
-    background: #f4eeff
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  background: #f4eeff
 }
 
-.personalNav{
+.personalNav {
   padding: 3% 10% 3% 5%;
 }
 
-
-
-.nav-link{
+.nav-link {
   color: #a6b1e1;
   font-size: 1.5rem;
   padding: 15px
 }
 
-.nav-link:hover{
+.nav-link:hover {
   color: #424874
-
 }
 
-.navbar-toggler{
+.navbar-toggler {
   background: #424874;
 }
 
-.mainbody{
+.mainbody {
   padding: 0 5% 0 5%;
   color: #424874;
   text-align: center;
   line-height: 2
 }
 
-.mainDesc{
+.mainDesc {
   padding: 5% 5% 0 5%;
-  font-size:  1.5rem;
+  font-size: 1.5rem;
   color: #a6b1e1;
   line-height: 1.7
-
 }
 
-.skills{
+.skills {
   padding: 5% 5% 5% 5%;
   background: #ffffff;
   margin-top: 10%;
@@ -48,44 +44,74 @@ body {
   color: #424874;
 }
 
-.skills-icon{
+.skills-icon {
   color: #424874;
 }
 
-.skill-desc{
+.skill-desc {
   color: #a6b1e1;
   padding-top: 20px;
   line-height: 1.8
 }
 
-
-.about{
-  padding: 5% 5% 5% 5%;
+.proj-title {
+  color: #424874;
 }
-.mypic{
+
+.projects {
+  background: #f4eeff;
+  padding: 5% 5% 5% 5%;
+  color: #a6b1e1;
+}
+
+.project-description {
+  padding: 3% 15% 5% 15%;
+  text-align: center;
+  font-size: 1.9rem;
+  color: #a6b1e1;
+}
+
+.view-site {
+  margin-top: 10%;
+  width: 30%;
+  background: #424874
+}
+
+.checkout-github {
+  margin-top: 10%;
+  width: 30%;
+  background: #a6b1e1;
+}
+
+.about {
+  padding: 5% 5% 5% 5%;
+  background: #ffffff;
+}
+
+.mypic {
   border-radius: 100%;
 }
 
-.myinfo{
+.myinfo {
   margin-top: 10%;
   color: #a6b1e1;
   font-size: 2.4rem
 }
 
-.mynameFooter{
+.mynameFooter {
   opacity: 0.4;
 }
 
-.social{
+.social {
   color: #424874;
   display: inline;
 }
 
-.mysocial{
+.mysocial {
   color: #424874;
   padding: 0
 }
 
-.mysocial:hover{
-    color: #424874
+.mysocial:hover {
+  color: #424874
 }
