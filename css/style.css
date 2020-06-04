@@ -53,13 +53,30 @@ body {
   padding-top: 20px;
   line-height: 1.8
 }
+.certifications{
+  color: #a6b1e1;
+}
 
+
+.project-descriptionc{
+  padding: 3% 15% 5% 15%;
+  text-align: center;
+  font-size: 1.9rem;
+  color: #a6b1e1;
+}
+
+.view-cert {
+  margin-top: 5%;
+  width: 30%;
+  background: #424874
+}
 .proj-title {
   color: #424874;
+  margin-top: 4%;
 }
 
 .projects {
-  background: #f4eeff;
+  background: #ffffff;
   padding: 5% 5% 5% 5%;
   color: #a6b1e1;
 }
@@ -85,7 +102,7 @@ body {
 
 .about {
   padding: 5% 5% 5% 5%;
-  background: #ffffff;
+  background: #f4eeff;
 }
 
 .mypic {
