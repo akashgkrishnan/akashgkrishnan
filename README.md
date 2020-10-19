@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DSA, Python, Flutter, Dart**
 
-- 👨‍💻 All of my projects are available at [https://akashgkrishnan.github.io/akashgkrishnan/](https://akashgkrishnan.github.io/akashgkrishnan/)
+- 👨‍💻 All of my projects are available at [https://github.com/akashgkrishnan](https://github.com/akashgkrishnan)
 
 - 💬 Ask me about **DSA, Python, Flutter, Dart**
 
