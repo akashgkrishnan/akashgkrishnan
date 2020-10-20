@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/factopediac" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="factopediac" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/akashgkrishnan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/akashgkrishnan/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akashgkrishnan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/akashgkrishnan/" height="30" width="40" /></a>
 <a href="https://instagram.com/akashgkrishnan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="akashgkrishnan" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/akashgkrishnan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/akashgkrishnan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/akashgkrishnan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/akashgkrishnan/" height="30" width="40" /></a>
