@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashgkrishnan&label=Profile%20views&color=0e75b6&style=flat" alt="akashgkrishnan" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashgkrishnan" alt="akashgkrishnan" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/factopediac" target="blank"><img src="https://img.shields.io/twitter/follow/factopediac?logo=twitter&style=for-the-badge" alt="factopediac" /></a> </p>
 
 - 🔭 I’m currently working on [Dart flutter](https://github.com/akashgkrishnan/Dart)
@@ -20,13 +22,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/factopediac" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="factopediac" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/akashgkrishnan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/akashgkrishnan/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akashgkrishnan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="akashgkrishnan" height="30" width="40" /></a>
 <a href="https://instagram.com/akashgkrishnan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="akashgkrishnan" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/akashgkrishnan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="akashgkrishnan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/akashgkrishnan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/akashgkrishnan" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/akashgkrishnan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="akashgkrishnan" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/akashgkrishnan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="akashgkrishnan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/akashgkrishnan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/akashgkrishnan/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/akashgkrishnan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://auth.geeksforgeeks.org/user/akashgkrishnan/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/akashgkrishnan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="akashgkrishnan/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/akashgkrishnan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="akashgkrishnan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
