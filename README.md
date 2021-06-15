@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://akashgkrishnan.github.io/akashgkrishnan/](https://akashgkrishnan.github.io/akashgkrishnan/)
 
-- 💬 Ask me about **DSA, Python, Flutter, Dart**
+- 💬 Ask me about **Flutter, Dart, React ,DSA, Python**
 
 - 📫 How to reach me **krishnanag1996@gmail.com**
 
