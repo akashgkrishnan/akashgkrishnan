@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Dart flutter](https://github.com/akashgkrishnan/Dart)
 
-- 🌱 I’m currently learning **DSA, Python, Flutter, Dart, React**
+- 🌱 I’m currently learning **Flutter, Dart, React, DSA, Python, **
 
 - 👨‍💻 All of my projects are available at [https://akashgkrishnan.github.io/akashgkrishnan/](https://akashgkrishnan.github.io/akashgkrishnan/)
 
