@@ -9,7 +9,9 @@
 
 - 🌱 I’m currently learning **Flutter, Dart, React, DSA, Python, **
 
-- 👨‍💻 All of my projects are available at [https://akashgkrishnan.github.io/akashgkrishnan/](https://akashgkrishnan.github.io/akashgkrishnan/)
+- 👨‍💻 Some of my projects are available at [Github Account 1](https://github.com/akashgkrishnan)
+
+- 👨‍💻 Some of my projects are available at [Github Account 2](https://github.com/akashgk)
 
 - 💬 Ask me about **Flutter, Dart, React ,DSA, Python**
 
